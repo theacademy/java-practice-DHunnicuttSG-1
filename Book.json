@@ -1,0 +1,1 @@
+Book{title='Testing Composition', isbn='null', authors=[[Author{FirstName='Jim', lastName='Saxby', address=null}, Author{FirstName='Ben', lastName='Jones', address=null}, Author{FirstName='Javeria', lastName='Khan', address=null}]], publisher=Publisher{name='Wiley', address=null, phone='null'}}
